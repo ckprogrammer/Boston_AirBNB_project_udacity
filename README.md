@@ -2,7 +2,7 @@
 Analysing the Boston AirBNB data for the Udacity Project. 
 
 ## Libraries Used:
-> Numpy 
-> Pandas 
-> Matplotlib pyplot
-> Seaborn
+> 1. Numpy 
+> 2. Pandas 
+> 3. Matplotlib pyplot
+> 4. Seaborn
