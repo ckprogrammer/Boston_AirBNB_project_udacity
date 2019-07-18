@@ -22,6 +22,7 @@ I have never analysed AirBNB data before, and wanted to learn about what it look
 
 ## Blog Post:
 This is the blog Post I created about my findings of this dataset. 
+### https://medium.com/@clara.s.kft/boston-airbnb-discover-a-beautiful-city-cd839c0f3c04?source=friends_link&sk=329b25680c591a19d0917dc90d039b1c 
 
 ## Acknowledgments
 I got the data from Kaggle: https://www.kaggle.com/airbnb/boston
